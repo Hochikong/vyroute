@@ -1,5 +1,5 @@
 #Attention
-This repo is a old version   
+This repo is an old version   
 The new version have moved to [https://github.com/vyos/python-vyos-mgmt](https://github.com/vyos/python-vyos-mgmt)
 
 
