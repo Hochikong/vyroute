@@ -1,3 +1,8 @@
+#Attention
+This repo is a old version   
+The new version have moved to [https://github.com/vyos/python-vyos-mgmt](https://github.com/vyos/python-vyos-mgmt)
+
+
 #VyRoute
 
 A python library for VyOS routing service setting
@@ -570,5 +575,4 @@ config的值仅可以为rip、static、ospf和all，all将会删除VyOS中protoc
 
 
    
-
 
